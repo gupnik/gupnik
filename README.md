@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Some of my stuff:
 
 - Ethereum
-  - Generative NFTs: Infinites AI [https://opensea.io/collection/infinites-ai], Infinites IRL [https://opensea.io/collection/infinites-irl]
+  - Generative NFTs: Infinites AI+IRL [https://opensea.io/collection/infinites-ai, https://opensea.io/collection/infinites-irl]
   - DAO: YQC [https://yesqueen.club/]
   
 - Polygon
