@@ -18,14 +18,20 @@ Here are some ideas to get you started:
 Some of my stuff:
 
 - Web 3.0
+  - Solana
+    - Blockasset 
+      - Marketplace [https://www.blockasset.co/collections/blockasset_legends]
+      - Raffles & Auctions [https://blaze.blockasset.co/]
+      - Staking [https://stake.blockasset.co/]
+    - Play & Earn Game: Rooniverse [https://www.playrooniverse.com/]
+    - Staking Game: Miners of Mars [https://dig.minersofmars.com, https://colony.minersofmars.com]
+    - Khoj Protocol [https://khojprotocol.com/]
   - Ethereum
     - Generative NFTs: Infinites AI+IRL [https://opensea.io/collection/infinites-ai, https://opensea.io/collection/infinites-irl]
     - DAO: YQC [https://yesqueen.club/]
   - Polygon
     - Dapp: Web 3.0 Creative Ecosystem [https://splash.neoquest.xyz/]
-  - Solana
-    - Play & Earn Game: Rooniverse [https://www.playrooniverse.com/]
-    - Staking Game: Miners of Mars [https://dig.minersofmars.com, https://colony.minersofmars.com]
+
 - Web 2.0
   - Mobile App: https://www.adobe.com/in/products/capture.html
   - PS Extension: https://blog.adobe.com/en/publish/2020/02/06/capture-extension-photoshop-cc-libraries
