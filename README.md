@@ -30,9 +30,11 @@ Some of my stuff:
     - Generative NFTs: Infinites AI+IRL [https://opensea.io/collection/infinites-ai, https://opensea.io/collection/infinites-irl]
     - DAO: YQC [https://yesqueen.club/]
   - Polygon
-    - Dapp: Web 3.0 Creative Ecosystem [https://splash.neoquest.xyz/]
+    - Web 3.0 Creative Ecosystem [https://splash.neoquest.xyz/]
   - Near
     - EdTech Protocol [https://github.com/gupnik/quark-protocol] 
+  - Dfinity
+    - Figma on-chain POC [https://d6uqw-tyaaa-aaaap-aag5q-cai.ic0.app/]
 
 - Web 2.0
   - Mobile Apps: https://www.adobe.com/in/products/capture.html
