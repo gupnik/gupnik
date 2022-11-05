@@ -33,7 +33,7 @@ Some of my stuff:
     - Web 3.0 Creative Ecosystem [https://splash.neoquest.xyz/]
   - Near
     - EdTech Protocol [https://github.com/gupnik/quark-protocol] 
-  - Dfinity
+  - ICP
     - Figma on-chain POC [https://d6uqw-tyaaa-aaaap-aag5q-cai.ic0.app/]
 
 - Web 2.0
