@@ -31,8 +31,10 @@ Some of my stuff:
     - DAO: YQC [https://yesqueen.club/]
   - Polygon
     - Dapp: Web 3.0 Creative Ecosystem [https://splash.neoquest.xyz/]
+  - Near
+    - EdTech Protocol [https://github.com/gupnik/quark-protocol] 
 
 - Web 2.0
-  - Mobile App: https://www.adobe.com/in/products/capture.html
+  - Mobile Apps: https://www.adobe.com/in/products/capture.html
   - PS Extension: https://blog.adobe.com/en/publish/2020/02/06/capture-extension-photoshop-cc-libraries
   - Chrome Extension: https://blog.adobe.com/en/publish/2021/05/25/capture-creative-cloud-google-chrome-extension
